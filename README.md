@@ -8,7 +8,7 @@
 - [ ] What is Hosting?
 - [ ] Request Life Cycle
 
-| -- | -- | -- |
+| Title | Resource | Duration |
 | ----------- | ----------- | ----------- |
 | -- | -- | -- |
 | -- | -- | -- |
@@ -20,11 +20,23 @@
 - [ ] Learn CSS
 - [ ] Practices HTML & CSS
 
+| Title | Resource | Duration |
+| ----------- | ----------- | ----------- |
+| -- | -- | -- |
+| -- | -- | -- |
+| -- | -- | -- |
+
 ## Stage 2: Before FrameWork
 - [ ] Learn Basic JS
 - [ ] Learn Bootstrap
 - [ ] advanced JS (Work with AJAX and fetch data from servers)
 - [ ] Practices JS & Bootstrap
+
+| Title | Resource | Duration |
+| ----------- | ----------- | ----------- |
+| -- | -- | -- |
+| -- | -- | -- |
+| -- | -- | -- |
 
 ## Stage 2: FrameWork
 - [ ] Learn Basic ReactJs

@@ -14,6 +14,8 @@
 | -- | -- | -- | -- |
 | -- | -- | -- | -- |
 
+### Tasks
+-----------
 
 ## Stage 1: Fundamentals
 - [ ] Learn HTML
@@ -27,6 +29,9 @@
 | -- | -- | -- | -- |
 | -- | -- | -- | -- |
 
+### Tasks
+-----------
+
 ## Stage 2: Pre-framework
 - [ ] Learn Basic JS
 - [ ] Learn Bootstrap
@@ -39,8 +44,14 @@
 | -- | -- | -- | -- |
 | -- | -- | -- | -- |
 
+### Tasks
+-----------
+
 ## Stage 2: FrameWork
 - [ ] Learn Basic ReactJs
+
+### Tasks
+-----------
 
 ## Useful Resources
 - [ ] [web3 school](https://www.w3schools.com/)

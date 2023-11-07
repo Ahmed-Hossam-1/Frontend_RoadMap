@@ -8,11 +8,11 @@
 - [ ] What is Hosting?
 - [ ] Request Life Cycle
 
-| Title | Resource | Duration |
-| ----------- | ----------- | ----------- |
-| -- | -- | -- |
-| -- | -- | -- |
-| -- | -- | -- |
+| Title | Resource | Duration | no of Videos |
+| ----------- | ----------- | ----------- | ----------- |
+| -- | -- | -- | -- |
+| -- | -- | -- | -- |
+| -- | -- | -- | -- |
 
 
 ## Stage 1: Fundamentals
@@ -21,11 +21,11 @@
 - [ ] Practices HTML & CSS
 - [ ] Learn Git & GitHub and How to Deploy a Project
 
-| Title | Resource | Duration |
-| ----------- | ----------- | ----------- |
-| -- | -- | -- |
-| -- | -- | -- |
-| -- | -- | -- |
+| Title | Resource | Duration | no of Videos |
+| ----------- | ----------- | ----------- | ----------- |
+| -- | -- | -- | -- |
+| -- | -- | -- | -- |
+| -- | -- | -- | -- |
 
 ## Stage 2: Pre-framework
 - [ ] Learn Basic JS
@@ -33,11 +33,11 @@
 - [ ] advanced JS (Work with AJAX and fetch data from servers)
 - [ ] Practices JS & Bootstrap
 
-| Title | Resource | Duration |
-| ----------- | ----------- | ----------- |
-| -- | -- | -- |
-| -- | -- | -- |
-| -- | -- | -- |
+| Title | Resource | Duration | no of Videos |
+| ----------- | ----------- | ----------- | ----------- |
+| -- | -- | -- | -- |
+| -- | -- | -- | -- |
+| -- | -- | -- | -- |
 
 ## Stage 2: FrameWork
 - [ ] Learn Basic ReactJs

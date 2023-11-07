@@ -6,7 +6,6 @@
 - [ ] What is a Domin Name? 
 - [ ] DNS and how it Works?
 - [ ] What is Hosting?
-- [ ] Request Life Cycle
 
 | Title | Resource | Duration | no of Videos |
 | ----------- | ----------- | ----------- | ----------- |

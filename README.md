@@ -19,6 +19,7 @@
 - [ ] Learn HTML
 - [ ] Learn CSS
 - [ ] Practices HTML & CSS
+- [ ] Learn Git & GitHub and How to Deploy a Project
 
 | Title | Resource | Duration |
 | ----------- | ----------- | ----------- |
@@ -26,7 +27,7 @@
 | -- | -- | -- |
 | -- | -- | -- |
 
-## Stage 2: Before FrameWork
+## Stage 2: Pre-framework
 - [ ] Learn Basic JS
 - [ ] Learn Bootstrap
 - [ ] advanced JS (Work with AJAX and fetch data from servers)

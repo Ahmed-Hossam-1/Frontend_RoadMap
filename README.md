@@ -26,26 +26,25 @@
 | -- | Resource | Duration | no of Videos |
 | ----------- | ----------- | ----------- | ----------- |
 | 1 | [HTML](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) | 10 days | 37 |
-| 2 | [CSS](https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) | 21 days | 88 |
+| 2 | [CSS](https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) | 21 day | 88 |
 
 ### Tasks
 -----------
 
 ## Stage 2: Pre-framework
-- [ ] Learn Basic JS
-- [ ] Learn Bootstrap
+- [ ] Learn Basic JS 
+- [ ] Learn Bootstrap 
 - [ ] ES6 
-- [ ] advanced JS (Work with AJAX and fetch data from servers)
-- [ ] Request Life Cycle
-- [ ] Practices JS & Bootstrap
+- [ ] advanced JS (Work with AJAX and fetch data from servers)  
+- [ ] Practices JS & Bootstrap 
 
-| -- | Resource | Duration | no of Videos |
-| ----------- | ----------- | ----------- | ----------- |
-| 1 | [Basic JS](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) | 1 month | 1 -> 56 |
-| 1 | [Bootstrap](https://www.youtube.com/watch?v=9mdGUKFu5OQ&list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ) | 7 days | 12 |
-| 2 | [ES6](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) | 15 days | 56 -> 85 |
-| 3 | -- | -- | -- |
-
+| -- | Resource | Duration | no of Videos | 
+| ----------- | ----------- | ----------- | ----------- | 
+| 1 | [Basic JS](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) | 1 month | 1 -> 56 | 
+| 1 | [Bootstrap](https://www.youtube.com/watch?v=9mdGUKFu5OQ&list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ) | 7 days | 12 | 
+| 2 | [DOM & BOM & ES6](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) | 1 month | 57 -> 168 | 
+| 3 | [AJAX & API](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) | 14 day | 169 -> 188 | 
+ 
 ### Tasks
 -----------
 

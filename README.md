@@ -42,7 +42,7 @@
 | ----------- | ----------- | ----------- | ----------- | 
 | 1 | [Basic JS](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) | 1 month | 1 -> 56 | 
 | 1 | [Bootstrap](https://www.youtube.com/watch?v=9mdGUKFu5OQ&list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ) | 7 days | 12 | 
-| 2 | [DOM & BOM & ES6](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) | 1 month | 57 -> 168 | 
+| 2 | [DOM & BOM & ES6](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) | 1.5 month | 57 -> 168 | 
 | 3 | [AJAX & API](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) | 14 day | 169 -> 188 | 
  
 ### Tasks

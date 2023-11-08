@@ -23,10 +23,10 @@
 - [ ] Practices HTML & CSS
 - [ ] Learn Git & GitHub and How to Deploy a Project
 
-| Title | Resource | Duration | no of Videos |
+| -- | Resource | Duration | no of Videos |
 | ----------- | ----------- | ----------- | ----------- |
-| 1 | [HTML](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) | 10days | 37 |
-| 2 | [CSS](https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) | 21days | 88 |
+| 1 | [HTML](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) | 10 days | 37 |
+| 2 | [CSS](https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) | 21 days | 88 |
 
 ### Tasks
 -----------
@@ -34,15 +34,17 @@
 ## Stage 2: Pre-framework
 - [ ] Learn Basic JS
 - [ ] Learn Bootstrap
+- [ ] ES6 
 - [ ] advanced JS (Work with AJAX and fetch data from servers)
 - [ ] Request Life Cycle
 - [ ] Practices JS & Bootstrap
 
-| Title | Resource | Duration | no of Videos |
+| -- | Resource | Duration | no of Videos |
 | ----------- | ----------- | ----------- | ----------- |
-| -- | -- | -- | -- |
-| -- | -- | -- | -- |
-| -- | -- | -- | -- |
+| 1 | [Basic JS](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) | 1 month | 1 -> 56 |
+| 1 | [Bootstrap](https://www.youtube.com/watch?v=9mdGUKFu5OQ&list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ) | 7 days | 12 |
+| 2 | [ES6](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) | 15 days | 56 -> 85 |
+| 3 | -- | -- | -- |
 
 ### Tasks
 -----------

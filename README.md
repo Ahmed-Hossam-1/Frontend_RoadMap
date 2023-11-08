@@ -9,10 +9,10 @@
 
 | -- | Resource | Duration | no of Videos |
 | ----------- | ----------- | ----------- | ----------- |
-| 1 | [Browsers and how they Work?](https://www.youtube.com/watch?v=VQkrBO5jxQU) | -- | -- |
-| 2 | [What Is HTTP?](https://youtu.be/a9x1XdL-r_k?si=d4Lh6U7zSgprK0UO) | -- | -- |
-| 3 | [Domin Name and Hosting](https://www.youtube.com/watch?v=_C_jeBVmH3E) | -- | -- |
-| 4 | [DNS and how it Works?](https://youtu.be/s-9143t3cHA?si=3lVvZ-nfYuUyVT8z) | -- | -- |
+| 1 | [Browsers and how they Work?](https://www.youtube.com/watch?v=VQkrBO5jxQU) | -- | 1 |
+| 2 | [What Is HTTP?](https://youtu.be/a9x1XdL-r_k?si=d4Lh6U7zSgprK0UO) | -- | 1 |
+| 3 | [Domin Name and Hosting](https://www.youtube.com/watch?v=_C_jeBVmH3E) | -- | 1 |
+| 4 | [DNS and how it Works?](https://youtu.be/s-9143t3cHA?si=3lVvZ-nfYuUyVT8z) | -- | 1 |
 
 ### Tasks
 -----------
@@ -25,9 +25,8 @@
 
 | Title | Resource | Duration | no of Videos |
 | ----------- | ----------- | ----------- | ----------- |
-| -- | -- | -- | -- |
-| -- | -- | -- | -- |
-| -- | -- | -- | -- |
+| 1 | [HTML](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) | 10days | 37 |
+| 2 | [CSS](https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) | 21days | 88 |
 
 ### Tasks
 -----------

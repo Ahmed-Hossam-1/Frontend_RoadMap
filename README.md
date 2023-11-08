@@ -7,12 +7,12 @@
 - [ ] What is Hosting?
 - [ ] DNS and how it Works?
 
-| Title | Resource | Duration | no of Videos |
+| -- | Resource | Duration | no of Videos |
 | ----------- | ----------- | ----------- | ----------- |
-| Browsers and how they Work?  | [--](https://www.youtube.com/watch?v=VQkrBO5jxQU) | -- | -- |
-| What Is HTTP? | [--](https://youtu.be/a9x1XdL-r_k?si=d4Lh6U7zSgprK0UO) | -- | -- |
-| Domin Name and Hosting | [--](https://www.youtube.com/watch?v=_C_jeBVmH3E) | -- | -- |
-| DNS and how it Works? | [--](https://youtu.be/s-9143t3cHA?si=3lVvZ-nfYuUyVT8z) | -- | -- |
+| 1 | [Browsers and how they Work?](https://www.youtube.com/watch?v=VQkrBO5jxQU) | -- | -- |
+| 2 | [What Is HTTP?](https://youtu.be/a9x1XdL-r_k?si=d4Lh6U7zSgprK0UO) | -- | -- |
+| 3 | [Domin Name and Hosting](https://www.youtube.com/watch?v=_C_jeBVmH3E) | -- | -- |
+| 4 | [DNS and how it Works?](https://youtu.be/s-9143t3cHA?si=3lVvZ-nfYuUyVT8z) | -- | -- |
 
 ### Tasks
 -----------

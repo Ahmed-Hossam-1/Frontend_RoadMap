@@ -51,6 +51,10 @@
 ## Stage 2: FrameWork
 - [ ] Learn Basic ReactJs
 
+| -- | Resource | Duration | no of Videos |
+| ----------- | ----------- | ----------- | ----------- |
+| 1 | [Basic ReactJs](https://www.youtube.com/watch?v=p8nOfP2fw24&list=PLQtNtS-WfRa9LbmD8ON7rWhn-AtKTGdkn) | 1 month | 1 -> 8 |
+
 ### Tasks
 -----------
 

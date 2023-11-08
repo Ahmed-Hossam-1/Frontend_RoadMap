@@ -35,6 +35,7 @@
 - [ ] Learn Basic JS
 - [ ] Learn Bootstrap
 - [ ] advanced JS (Work with AJAX and fetch data from servers)
+- [ ] Request Life Cycle
 - [ ] Practices JS & Bootstrap
 
 | Title | Resource | Duration | no of Videos |
